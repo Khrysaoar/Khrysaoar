@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khrysaoar
-- 👀 I’m interested in blockchain apps development, Machine Learning Dev and Back-end dev
+- 👀 I’m interested in blockchain apps development, Machine Learning Dev and Back-end dev as well as Front-end dev
 - 🌱 I’m currently learning Solana Blockchain based app development: Rust, Solana, NodeJS, ReactJS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at KhrysGame30@gmail.com
